@@ -1,2 +1,2 @@
 # codecademy
-Here I put all of my code which i learn from Codecademy computer science course.
+Here I put all of my code which I have learned from Codecademy computer science course.
